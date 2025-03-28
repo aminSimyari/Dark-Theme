@@ -30,3 +30,10 @@ body {
 p {
     font-size: 1.5rem;
 }
+
+.theme-toggle {
+    background-color: var(--color-base-bg);
+    border: var(--border-btn);
+    font-size: 1.2rem;
+    padding: 10px 20px;
+}
