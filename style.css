@@ -20,3 +20,9 @@ body {
     background-color: var(--color-base-bg);
     padding: 10px;
 }
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
