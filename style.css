@@ -33,7 +33,7 @@ p {
 
 .theme-toggle {
     background-color: var(--color-base-bg);
-    border: var(--border-btn);
+    border: solid thin;
     font-size: 1.2rem;
     padding: 10px 20px;
 }
