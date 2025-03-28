@@ -4,3 +4,9 @@
     --color-base-text: rgb(240, 240, 240);
     --color-btn-bg: rgb(36, 36, 36);
 }
+:root.light {
+    --border-btn: 1px solid rgb(36, 36, 36);
+    --color-base-bg: rgb(240, 240, 240);
+    --color-base-text: rgb(18, 18, 18);
+    --color-btn-bg: rgb(220, 220, 220);
+}
