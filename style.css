@@ -41,3 +41,7 @@ p {
 .theme-toggle:hover {
     cursor: pointer;
 }
+
+.theme-toggle:focus {
+    outline: var(--border-btn);
+}
