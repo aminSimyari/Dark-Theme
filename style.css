@@ -10,7 +10,13 @@
     --color-base-text: rgb(18, 18, 18);
     --color-btn-bg: rgb(220, 220, 220);
 }
+
 body,
 .theme-toggle {
     color: var(--color-base-text);
+}
+
+body {
+    background-color: var(--color-base-bg);
+    padding: 10px;
 }
