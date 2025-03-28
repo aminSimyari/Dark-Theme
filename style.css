@@ -10,3 +10,7 @@
     --color-base-text: rgb(18, 18, 18);
     --color-btn-bg: rgb(220, 220, 220);
 }
+body,
+.theme-toggle {
+    color: var(--color-base-text);
+}
